@@ -35,7 +35,7 @@ class NavigationDrawerWidget extends StatelessWidget{
               )),
               
             ),
-            Container( //para poner usar el paddin que se borrro arriba
+            Container( //para poner usar el paddin que se borrro arribaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
               padding:padding,
             child: Column(//es ncesario usar ello sino  votara error
               children:[//igual es necesario usaralo para usar el paading
